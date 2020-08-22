@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Independent", "Independent", "{12034F1D-9CE7-4E9F-BA86-6201921791EC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ForAngular", "ForAngular", "{3163D4B8-765D-4EF3-A2CA-8E5D43C47AB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdminLTE", "AdminLTE\AdminLTE.csproj", "{13725876-3A7A-4733-8372-AC6BCBF4FAF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13725876-3A7A-4733-8372-AC6BCBF4FAF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13725876-3A7A-4733-8372-AC6BCBF4FAF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13725876-3A7A-4733-8372-AC6BCBF4FAF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13725876-3A7A-4733-8372-AC6BCBF4FAF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{13725876-3A7A-4733-8372-AC6BCBF4FAF5} = {12034F1D-9CE7-4E9F-BA86-6201921791EC}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15E296E1-9D00-4EB9-955D-35F7500F3AF5}
+	EndGlobalSection
+EndGlobal
